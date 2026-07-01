@@ -13,7 +13,9 @@ This course focuses on the fundamentals of supervised machine learning. The main
 * Cost Function
 * Gradient Descent
 * Multiple Linear Regression
+* Feature Engineering
 * Feature Scaling
+* Polynomial Regression
 * Logistic Regression
 * Classification
 * Overfitting

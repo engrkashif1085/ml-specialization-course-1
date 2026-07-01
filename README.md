@@ -46,9 +46,9 @@ ml-specialization-course-1/
 
 | Week   | Topic                              | Status      |
 | ------ | ---------------------------------- | ----------- |
-| Week 1 | Introduction to Machine Learning   | In Progress |
-| Week 2 | Regression with Multiple Variables | Not Started |
-| Week 3 | Classification                     | Not Started |
+| Week 1 | Introduction to Machine Learning   | Completed |
+| Week 2 | Regression with Multiple Variables | Completed |
+| Week 3 | Classification                     | In Progress |
 
 ## Learning Goal
 
